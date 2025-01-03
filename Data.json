@@ -1,1 +1,972 @@
-
+[
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 700,
+    "maxRateInEuros": 1000
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 500,
+    "maxRateInEuros": 800
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 350
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 450
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Product Owners",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 250
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 600,
+    "maxRateInEuros": 900
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 450,
+    "maxRateInEuros": 700
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 350
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 350
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 250
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "UI/UX Designers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 200
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 700,
+    "maxRateInEuros": 1200
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 500,
+    "maxRateInEuros": 850
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 600
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Software Developers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 750,
+    "maxRateInEuros": 1300
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 600,
+    "maxRateInEuros": 900
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 350,
+    "maxRateInEuros": 650
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 350,
+    "maxRateInEuros": 600
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 600
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 450
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "DevOps Engineers",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 500,
+    "maxRateInEuros": 800
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 350,
+    "maxRateInEuros": 600
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 250
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "QA/Testers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 200
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 900,
+    "maxRateInEuros": 1500
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 700,
+    "maxRateInEuros": 1100
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 400,
+    "maxRateInEuros": 700
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 600
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 400,
+    "maxRateInEuros": 800
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 400,
+    "maxRateInEuros": 700
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI/ML Engineers",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 600,
+    "maxRateInEuros": 1000
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 450,
+    "maxRateInEuros": 800
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 450
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Data Analysts",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 250,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 400
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 250
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 50,
+    "maxRateInEuros": 150
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 200
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 80,
+    "maxRateInEuros": 150
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 50,
+    "maxRateInEuros": 150
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Teleoperators/Support",
+    "minRateInEuros": 50,
+    "maxRateInEuros": 100
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 400,
+    "maxRateInEuros": 700
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 200,
+    "maxRateInEuros": 350
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 250
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 150,
+    "maxRateInEuros": 300
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 200
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "AI Trainers",
+    "minRateInEuros": 100,
+    "maxRateInEuros": 200
+  },
+  {
+    "continent": "North America",
+    "countriesList": [
+      "USA"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 1000,
+    "maxRateInEuros": 1500
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "France"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 800,
+    "maxRateInEuros": 1200
+  },
+  {
+    "continent": "Europe",
+    "countriesList": [
+      "Poland",
+      "Ukraine",
+      "Romania"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 500,
+    "maxRateInEuros": 800
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 600
+  },
+  {
+    "continent": "Asia",
+    "countriesList": [
+      "China",
+      "Philippines"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 500,
+    "maxRateInEuros": 900
+  },
+  {
+    "continent": "South America",
+    "countriesList": [
+      "Brazil",
+      "Mexico",
+      "Colombia"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 400,
+    "maxRateInEuros": 700
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Nigeria",
+      "Kenya",
+      "South Africa"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 500
+  },
+  {
+    "continent": "Africa",
+    "countriesList": [
+      "Madagascar"
+    ],
+    "creationDate": "2025-01-03",
+    "updateDate": "2025-01-03",
+    "role": "Architects",
+    "minRateInEuros": 300,
+    "maxRateInEuros": 500
+  }
+]
